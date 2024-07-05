@@ -21,3 +21,9 @@ https://github.com/keijiro/Voxelman
 ![image](https://github.com/gcj2450/NoteMemo/assets/11438971/fa791abe-c5ab-40a1-a000-8f59c5bfab53)
 ![image](https://github.com/gcj2450/NoteMemo/assets/11438971/ff37072a-2b81-472f-9440-555e3a352daa)
 
+可变性Mesh的water
+https://github.com/Julia-Melgare/Deformable-Water
+
+动态水波，带水花飞溅
+https://github.com/SquirrelyJones/DynamicRipples
+![Demo](https://github.com/gcj2450/NoteMemo/assets/11438971/7b432e8f-a8eb-4a18-8d7c-79275e04d4fb)
