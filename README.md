@@ -35,3 +35,7 @@ https://user-images.githubusercontent.com/37833000/211704609-64d3e2f1-f449-47b4-
 URp的可交互水体
 https://github.com/LoveAIhuihui/Urp-Interactive-Water
 ![image](https://github.com/gcj2450/NoteMemo/assets/11438971/ac5a3aed-e04d-4533-8a43-c02629236579)
+
+URP下的海洋水体
+https://github.com/gcj2450/URP-Ocean-System
+![image](https://github.com/gcj2450/NoteMemo/assets/11438971/2246c764-b634-4935-aa62-9ec073808152)
