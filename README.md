@@ -31,3 +31,7 @@ https://github.com/SquirrelyJones/DynamicRipples
 清水带水滴和水波效果
 https://github.com/canqiushi/InterWaterCS
 https://user-images.githubusercontent.com/37833000/211704609-64d3e2f1-f449-47b4-a994-2a2618038673.gif
+
+URp的可交互水体
+https://github.com/LoveAIhuihui/Urp-Interactive-Water
+![image](https://github.com/gcj2450/NoteMemo/assets/11438971/ac5a3aed-e04d-4533-8a43-c02629236579)
