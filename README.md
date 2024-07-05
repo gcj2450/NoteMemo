@@ -39,3 +39,8 @@ https://github.com/LoveAIhuihui/Urp-Interactive-Water
 URP下的海洋水体
 https://github.com/gcj2450/URP-Ocean-System
 ![image](https://github.com/gcj2450/NoteMemo/assets/11438971/2246c764-b634-4935-aa62-9ec073808152)
+
+带水波纹的
+https://github.com/yumayanagisawa/Unity-Wave-Propagation-Water-Ripple
+![image](https://github.com/gcj2450/NoteMemo/assets/11438971/220b692d-5abe-4bf6-926a-d2b90fed3c3f)
+
