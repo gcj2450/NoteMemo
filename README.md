@@ -44,3 +44,8 @@ https://github.com/gcj2450/URP-Ocean-System
 https://github.com/yumayanagisawa/Unity-Wave-Propagation-Water-Ripple
 ![image](https://github.com/gcj2450/NoteMemo/assets/11438971/220b692d-5abe-4bf6-926a-d2b90fed3c3f)
 
+有多个波纹叠加效果的ripple
+https://github.com/ertugrulerdogan/RippleShader
+![image](https://github.com/gcj2450/NoteMemo/assets/11438971/075e696e-ae67-4809-aaf3-132abc1eb09a)
+
+
