@@ -27,3 +27,7 @@ https://github.com/Julia-Melgare/Deformable-Water
 动态水波，带水花飞溅
 https://github.com/SquirrelyJones/DynamicRipples
 ![Demo](https://github.com/gcj2450/NoteMemo/assets/11438971/7b432e8f-a8eb-4a18-8d7c-79275e04d4fb)
+
+清水带水滴和水波效果
+https://github.com/canqiushi/InterWaterCS
+https://user-images.githubusercontent.com/37833000/211704609-64d3e2f1-f449-47b4-a994-2a2618038673.gif
