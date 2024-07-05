@@ -1,6 +1,9 @@
 # NoteMemo
 笔记
 
+带热更项目模板
+https://github.com/gcj2450/PorjectTemplate
+
 一个人物头像渲染的效果，带有调色Shader
 
 https://github.com/keijiro/InfiniteScan/tree/master
