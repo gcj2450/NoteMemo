@@ -1,5 +1,9 @@
 # NoteMemo
 笔记
+[4 WAYS TO INCREASE PERFORMANCE OF YOUR UNITY GAME.docx](https://github.com/user-attachments/files/16174566/4.WAYS.TO.INCREASE.PERFORMANCE.OF.YOUR.UNITY.GAME.docx)
+[Unity Optimisation.docx](https://github.com/user-attachments/files/16174564/Unity.Optimisation.docx)
+[android-optimization-with-unity.docx](https://github.com/user-attachments/files/16174562/android-optimization-with-unity.docx)
+[Performance tips for Unity 2d mobile.docx](https://github.com/user-attachments/files/16174561/Performance.tips.for.Unity.2d.mobile.docx)
 
 带热更项目模板
 https://github.com/gcj2450/PorjectTemplate
