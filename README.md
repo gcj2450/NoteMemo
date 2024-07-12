@@ -60,3 +60,12 @@ https://lexdev.net/tutorials/case_studies/frostpunk_heatmap.html#section_7
 
 ![image](https://github.com/user-attachments/assets/83791553-7f7c-45ff-bcc4-e8998ad7d24f)
 
+战争与文明地图效果
+https://lexdev.net/tutorials/case_studies/civilization_fogofwar.html
+![image](https://github.com/user-attachments/assets/5c85533a-9b35-4d74-aac4-95de97fbfe31)
+
+地面爆炸效果
+https://lexdev.net/tutorials/case_studies/gears_hammerofdawn.html
+![image](https://github.com/user-attachments/assets/be806161-7e66-4f88-a735-234fb33bcbea)
+
+
