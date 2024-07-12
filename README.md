@@ -81,3 +81,9 @@ https://github.com/gcj2450/EquirectangularSeamCorrection
 https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f
 https://github.com/gcj2450/Unity-AlphaToCoverage
 ![image](https://github.com/user-attachments/assets/762dcf49-2cd8-458d-8320-93fb888f6e26)
+
+最完美的Grid着色器，抗锯齿的
+https://gist.github.com/bgolus/d49651f52b1dcf82f70421ba922ed064
+https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8#1e7c
+![image](https://github.com/user-attachments/assets/1bfc3f2c-8864-42da-a3f2-7dd8e5d049b6)
+
