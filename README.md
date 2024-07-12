@@ -72,3 +72,12 @@ https://lexdev.net/tutorials/case_studies/gears_hammerofdawn.html
 https://lexdev.net/tutorials/case_studies/overwatch_shield.html
 ![image](https://github.com/user-attachments/assets/a0b25a26-464a-4524-b702-730cb02a88d0)
 
+球形贴图接缝问题
+https://bgolus.medium.com/distinctive-derivative-differences-cce38d36797b
+https://github.com/gcj2450/EquirectangularSeamCorrection
+![image](https://github.com/user-attachments/assets/ba9855b7-81d9-460e-85ce-dd528f1634b9)
+
+树叶抗锯齿
+https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f
+https://github.com/gcj2450/Unity-AlphaToCoverage
+![image](https://github.com/user-attachments/assets/762dcf49-2cd8-458d-8320-93fb888f6e26)
