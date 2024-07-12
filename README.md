@@ -68,4 +68,7 @@ https://lexdev.net/tutorials/case_studies/civilization_fogofwar.html
 https://lexdev.net/tutorials/case_studies/gears_hammerofdawn.html
 ![image](https://github.com/user-attachments/assets/be806161-7e66-4f88-a735-234fb33bcbea)
 
+护盾效果
+https://lexdev.net/tutorials/case_studies/overwatch_shield.html
+![image](https://github.com/user-attachments/assets/a0b25a26-464a-4524-b702-730cb02a88d0)
 
