@@ -55,4 +55,8 @@ https://github.com/yumayanagisawa/Unity-Wave-Propagation-Water-Ripple
 https://github.com/ertugrulerdogan/RippleShader
 ![image](https://github.com/gcj2450/NoteMemo/assets/11438971/075e696e-ae67-4809-aaf3-132abc1eb09a)
 
+雪天热力图
+https://lexdev.net/tutorials/case_studies/frostpunk_heatmap.html#section_7
+
+![image](https://github.com/user-attachments/assets/83791553-7f7c-45ff-bcc4-e8998ad7d24f)
 
