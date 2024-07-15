@@ -87,3 +87,7 @@ https://gist.github.com/bgolus/d49651f52b1dcf82f70421ba922ed064
 https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8#1e7c
 ![image](https://github.com/user-attachments/assets/1bfc3f2c-8864-42da-a3f2-7dd8e5d049b6)
 
+包含bezier spline 等各种曲线，并且还带有人物模型
+https://github.com/gcj2450/Unity_Curve_Human
+![infoflow_2024-7-15_20-38-14](https://github.com/user-attachments/assets/dfbc8c02-3103-4b5d-ac6e-ea79c24c49a7)
+
