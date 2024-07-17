@@ -91,3 +91,6 @@ https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8#1e7c
 https://github.com/gcj2450/Unity_Curve_Human
 ![infoflow_2024-7-15_20-38-14](https://github.com/user-attachments/assets/dfbc8c02-3103-4b5d-ac6e-ea79c24c49a7)
 
+Forward Render 和Defered Render 区别，最好的讲解：https://gamedevelopment.tutsplus.com/forward-rendering-vs-deferred-rendering--gamedev-12342a
+![image](https://github.com/user-attachments/assets/fa5b2827-fb72-4e39-a443-dce6a1ae4ece)
+
