@@ -19,6 +19,8 @@ Unity 优化相关四篇文章
 Unity 官方头发及角色渲染示例
 https://github.com/UnityTechnologies/URP-Defender-Character-Demo
 
+unity webgl 方向检测Demo，可以检测移动端设备朝向
+[https://github.com/gtk2k/UnityWebGLOrientationDetectSample](https://github.com/gcj2450/UnityWebGLOrientationDetectSample)
 
 
 带热更项目模板
