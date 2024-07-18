@@ -5,6 +5,11 @@ Unity 基于Jobs Burst提高性能的A*寻路算法
 https://github.com/gcj2450/UnityAStarNavigation
 ![image](https://github.com/user-attachments/assets/90058e2c-c4d4-4161-bef1-282bc91d55a4)
 
+unity 水渲染，有个树叶摆动的Shader,水Shader,
+https://github.com/gcj2450/WaterRendering
+![image](https://github.com/user-attachments/assets/c393407a-62b3-4a84-8563-7d5ec8c15973)
+
+
 Unity 真实船物理力
 https://github.com/Habrador/Unity-Boat-physics-Tutorial
 
