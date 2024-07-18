@@ -1,6 +1,11 @@
 # NoteMemo
 笔记
 
+Unity 基于Jobs Burst提高性能的A*寻路算法
+https://github.com/gcj2450/UnityAStarNavigation
+![image](https://github.com/user-attachments/assets/90058e2c-c4d4-4161-bef1-282bc91d55a4)
+
+
 城市街道模型，做跑酷的时候用的城市模型
 
  https://gitee.com/gcj2450/city-models
