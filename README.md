@@ -8,6 +8,9 @@ https://github.com/gcj2450/UnityAStarNavigation
 Unity 真实船物理力
 https://github.com/Habrador/Unity-Boat-physics-Tutorial
 
+一套基础的游戏框架包含客户端和服务端，带有Protobuf C#源码，仅包含登录和聊天示例
+https://github.com/gcj2450/UnitySocketProtobuf3Demo
+
 城市街道模型，做跑酷的时候用的城市模型
 
  https://gitee.com/gcj2450/city-models
