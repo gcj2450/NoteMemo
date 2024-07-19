@@ -6,6 +6,9 @@ GPU Instance
 https://github.com/gcj2450/Milk_Instancer01
 ![image](https://github.com/user-attachments/assets/23890d7e-2055-4da1-842c-0b5e4227d941)
 
+一个Trailrender,有fbx exporter,可以根据划线生成面片
+![image](https://github.com/user-attachments/assets/dd550cb2-a3b0-4d09-96d4-4173b91f4544)
+
 
 Unity 基于Jobs Burst提高性能的A*寻路算法
 https://github.com/gcj2450/UnityAStarNavigation
