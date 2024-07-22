@@ -161,4 +161,7 @@ https://github.com/741645596/PBR-Learn
 ![image](https://github.com/user-attachments/assets/4800b34d-b67e-49d3-8dac-bebe58726fae)
 ![image](https://github.com/user-attachments/assets/3e056b15-9efa-46ff-b88a-5ea5e8feb7a9)
 
+一个快速的水效果，多种水颜色可选
+https://github.com/nvjob/nvjob-water-shader-simple-and-fast
+![image](https://github.com/user-attachments/assets/71390d6c-6918-499b-bc11-98b0b204256a)
 
