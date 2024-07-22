@@ -168,3 +168,8 @@ https://github.com/nvjob/nvjob-water-shader-simple-and-fast
 Fast Fake Skin 快速的假皮肤 Shader
 https://github.com/gcj2450/FastFakeSkin
 ![image](https://github.com/user-attachments/assets/89a0ae61-e4a6-4094-b0c1-2443bc0ea778)
+
+龙和凤 vfx 效果
+https://github.com/gcj2450/VFXGraphIntermediate
+![image](https://github.com/user-attachments/assets/a7c64df4-3549-4e9a-8517-d7ad93a8680f)
+
