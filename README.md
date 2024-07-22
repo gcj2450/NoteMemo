@@ -155,3 +155,10 @@ Unity 基于UGUI的自定义表格组件
 
 Unity 断点续传，支持多线程
 https://github.com/GrayGuardian/DownloadFile
+
+Unity uRP下的pbr shader,有自定义的PBR Shader,支持Lut
+https://github.com/741645596/PBR-Learn
+![image](https://github.com/user-attachments/assets/4800b34d-b67e-49d3-8dac-bebe58726fae)
+![image](https://github.com/user-attachments/assets/3e056b15-9efa-46ff-b88a-5ea5e8feb7a9)
+
+
