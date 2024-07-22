@@ -165,3 +165,6 @@ https://github.com/741645596/PBR-Learn
 https://github.com/nvjob/nvjob-water-shader-simple-and-fast
 ![image](https://github.com/user-attachments/assets/71390d6c-6918-499b-bc11-98b0b204256a)
 
+Fast Fake Skin 快速的假皮肤 Shader
+https://github.com/gcj2450/FastFakeSkin
+![image](https://github.com/user-attachments/assets/89a0ae61-e4a6-4094-b0c1-2443bc0ea778)
