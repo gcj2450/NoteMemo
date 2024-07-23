@@ -4,6 +4,10 @@
 Unity钢琴，包含子弹轨迹算法，bezier路径算法，物体碰撞反弹路线计算算法，Ballistics
 https://github.com/gcj2450/UnityMidiPiano.git
 
+从Ableton实时获取音符并可视化显示出来
+https://github.com/MarkTension/UnityAbletonBridgeSpline
+
+
 
 GPU Instance
 https://github.com/gcj2450/Milk_Instancer01
