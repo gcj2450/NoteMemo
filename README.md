@@ -1,6 +1,8 @@
 # NoteMemo
 笔记
 
+Unity钢琴，包含子弹轨迹算法，bezier路径算法，物体碰撞反弹路线计算算法
+https://github.com/gcj2450/UnityMidiPiano.git
 
 GPU Instance
 https://github.com/gcj2450/Milk_Instancer01
