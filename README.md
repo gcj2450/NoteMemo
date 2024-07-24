@@ -12,6 +12,7 @@ https://github.com/gcj2450/Project3D
 有小渔村场景和中国风的古建筑模型
 
 https://github.com/gcj2450/DeadEarth
+![image](https://github.com/user-attachments/assets/2d8c00e4-9000-40b5-b230-5e550fa29887)
 
 ![image](https://github.com/user-attachments/assets/22f72ff4-9d02-4555-99b0-5124a7b90a86)
 
