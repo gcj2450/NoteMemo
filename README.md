@@ -1,6 +1,14 @@
 # NoteMemo
 笔记
 
+有各种脚步音效的卡通场景，有卡通的人物还有各种音效和ui
+https://github.com/gcj2450/Project3D
+![image](https://github.com/user-attachments/assets/64bfecbb-dc5d-49ec-be50-b9021c42377c)
+![infoflow_2024-7-24_21-42-4](https://github.com/user-attachments/assets/642dbdc2-e2d9-4401-9c5a-09b9be86b15f)
+![infoflow_2024-7-24_21-42-26](https://github.com/user-attachments/assets/fec9ef35-ab59-4d89-a3e1-c3bdeb705dd1)
+
+
+
 有小渔村场景和中国风的古建筑模型
 
 https://github.com/gcj2450/DeadEarth
