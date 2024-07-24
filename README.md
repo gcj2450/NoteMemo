@@ -1,6 +1,10 @@
 # NoteMemo
 笔记
 
+有小渔村场景和中国风的古建筑模型
+
+https://github.com/gcj2450/DeadEarth
+
 Unity钢琴，包含子弹轨迹算法，bezier路径算法，物体碰撞反弹路线计算算法，Ballistics
 https://github.com/gcj2450/UnityMidiPiano.git
 
