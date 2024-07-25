@@ -1,6 +1,15 @@
 # NoteMemo
 笔记
 
+GPU生成树木，毛发等效果，有一个银河天空球，有一些火焰粒子预制体
+https://github.com/cabbibo/b-a-b
+![infoflow_2024-7-25_15-2-37](https://github.com/user-attachments/assets/d1448af9-12f2-414e-a895-f4f5662218ee)
+![infoflow_2024-7-25_15-2-20](https://github.com/user-attachments/assets/50ebca97-197c-424a-aa3d-91f1caada05b)
+![infoflow_2024-7-25_14-57-45](https://github.com/user-attachments/assets/57942051-3d6e-4991-8031-68ff746ae532)
+
+
+
+
 有各种脚步音效的卡通场景，有卡通的人物还有各种音效和ui
 https://github.com/gcj2450/Project3D
 ![image](https://github.com/user-attachments/assets/64bfecbb-dc5d-49ec-be50-b9021c42377c)
