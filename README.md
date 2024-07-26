@@ -1,5 +1,11 @@
 # NoteMemo
 笔记
+fantastic-city-generator
+城市生成插件，可以自动生成城市场景
+![image](https://github.com/user-attachments/assets/688d36dd-5e25-4b8a-8a68-2add8fc176e7)
+![image](https://github.com/user-attachments/assets/5691f04b-6dc2-464e-9eb8-5ab2ecd56d1c)
+
+
 
 带有动态音频导入到Midi可视化
 https://github.com/gcj2450/OMIDIV
