@@ -1,6 +1,11 @@
 # NoteMemo
 笔记
 
+ImageFun,可以将一张图的颜色改用几个简单的颜色替代
+https://github.com/TheGoldenProof/ImageFun
+![image](https://github.com/user-attachments/assets/0e3a221d-6946-4ac0-99de-745308b743f8)
+
+
 IMP,根据模型生成一圈贴图的优化模型的方法
 https://github.com/gcj2450/IMP
 ![image](https://github.com/user-attachments/assets/f71925ad-a9ce-4f39-926f-abf85fe0578d)
