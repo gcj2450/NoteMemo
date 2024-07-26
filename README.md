@@ -1,6 +1,17 @@
 # NoteMemo
 笔记
 
+有各种花草树木，石头，还有体积光效果，神庙模型
+https://github.com/gcj2450/Earth-Terrain
+![infoflow_2024-7-26_16-13-34](https://github.com/user-attachments/assets/93dac57d-f49c-4539-89d9-46a8ef6c72e9)
+![infoflow_2024-7-26_16-13-21](https://github.com/user-attachments/assets/d69b7865-0d84-4b64-bf31-d14184421c37)
+![infoflow_2024-7-26_16-12-11](https://github.com/user-attachments/assets/bf7c68c1-e6d4-42b5-a21a-13a80b4274b3)
+![infoflow_2024-7-26_16-17-41](https://github.com/user-attachments/assets/7a75ae93-4e0b-482f-a016-03fc7201b754)
+![infoflow_2024-7-26_16-15-40](https://github.com/user-attachments/assets/a325e3ad-4dc1-4226-8560-6b12bb83406f)
+![infoflow_2024-7-26_16-16-41](https://github.com/user-attachments/assets/100a10a3-f209-4962-aec2-0f14b735aaa5)
+
+
+
 ImageFun,可以将一张图的颜色改用几个简单的颜色替代
 https://github.com/TheGoldenProof/ImageFun
 ![image](https://github.com/user-attachments/assets/0e3a221d-6946-4ac0-99de-745308b743f8)
