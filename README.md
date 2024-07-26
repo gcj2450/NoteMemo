@@ -1,6 +1,9 @@
 # NoteMemo
 笔记
 
+包含3D InifiniteRunner kit，Unity官方狐狸跑酷，XRacer的跑酷项目
+https://gitee.com/gcj2450/infinite-runner
+
 有各种花草树木，石头，还有体积光效果，神庙模型
 https://github.com/gcj2450/Earth-Terrain
 ![infoflow_2024-7-26_16-13-34](https://github.com/user-attachments/assets/93dac57d-f49c-4539-89d9-46a8ef6c72e9)
