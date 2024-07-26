@@ -1,6 +1,12 @@
 # NoteMemo
 笔记
 
+有画贝塞尔曲线和测量标记的方法
+https://github.com/milank-s/Knitting
+![infoflow_2024-7-26_10-59-48](https://github.com/user-attachments/assets/04e101da-f1fc-443f-ba7a-1b504249cc29)
+
+
+
 GPU生成树木，毛发等效果，有一个银河天空球，有一些火焰粒子预制体
 https://github.com/cabbibo/b-a-b
 ![infoflow_2024-7-25_15-2-37](https://github.com/user-attachments/assets/d1448af9-12f2-414e-a895-f4f5662218ee)
