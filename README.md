@@ -1,5 +1,11 @@
 # NoteMemo
 笔记
+
+IMP,根据模型生成一圈贴图的优化模型的方法
+https://github.com/gcj2450/IMP
+![image](https://github.com/user-attachments/assets/f71925ad-a9ce-4f39-926f-abf85fe0578d)
+
+
 fantastic-city-generator
 城市生成插件，可以自动生成城市场景
 ![image](https://github.com/user-attachments/assets/688d36dd-5e25-4b8a-8a68-2add8fc176e7)
