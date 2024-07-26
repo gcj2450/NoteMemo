@@ -1,6 +1,15 @@
 # NoteMemo
 笔记
 
+带有动态音频导入到Midi可视化
+https://github.com/gcj2450/OMIDIV
+![infoflow_2024-7-26_11-51-3](https://github.com/user-attachments/assets/d25f8c80-d7a5-40bb-8427-35483a80a2db)
+![infoflow_2024-7-26_11-51-32](https://github.com/user-attachments/assets/500fe2d5-e231-4fb0-bc5b-1eb0f0303544)
+![infoflow_2024-7-26_11-51-58](https://github.com/user-attachments/assets/00232b76-0c21-42d2-9f8b-703e3c2196bf)
+
+
+
+
 有画贝塞尔曲线和测量标记的方法
 
 [https://github.com/milank-s/Knitting](https://github.com/gcj2450/Knitting)
