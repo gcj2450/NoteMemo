@@ -1,6 +1,9 @@
 # NoteMemo
 笔记
 
+音乐下载器，支持qq，酷狗等音乐平台下载
+https://github.com/gcj2450/XMusicDownloader
+
 包含3D InifiniteRunner kit，Unity官方狐狸跑酷，XRacer的跑酷项目
 https://gitee.com/gcj2450/infinite-runner
 
