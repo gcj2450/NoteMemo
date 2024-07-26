@@ -2,7 +2,7 @@
 笔记
 
 有画贝塞尔曲线和测量标记的方法
-https://github.com/milank-s/Knitting
+[https://github.com/milank-s/Knitting](https://github.com/gcj2450/Knitting)
 ![infoflow_2024-7-26_10-59-48](https://github.com/user-attachments/assets/04e101da-f1fc-443f-ba7a-1b504249cc29)
 
 
