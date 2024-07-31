@@ -18,11 +18,6 @@ https://github.com/gcj2450/mesh-to-sdf-examples
 ![infoflow_2024-7-31_19-48-11](https://github.com/user-attachments/assets/13d78679-5b51-4b5d-a461-6e5491fb6176)
 
 
-
-
-内置渲染管线的各种头发Shader 实现，包括Kajiya kay
-https://github.com/gcj2450/Hair_BuiltinRP
-
 有几个SchoolGirls模型和GameCreator sdk,GameCreator是一些游戏开发工具，角色控制等
 https://github.com/gcj2450/Gamecreator2_basic
 ![image](https://github.com/user-attachments/assets/9f2d8201-04b7-4552-8935-e0d17e2aa017)
