@@ -1,6 +1,9 @@
 # NoteMemo
 笔记
 
+内置渲染管线的各种头发Shader 实现，包括Kajiya kay
+https://github.com/gcj2450/Hair_BuiltinRP
+
 有几个SchoolGirls模型和GameCreator sdk,GameCreator是一些游戏开发工具，角色控制等
 https://github.com/gcj2450/Gamecreator2_basic
 ![image](https://github.com/user-attachments/assets/9f2d8201-04b7-4552-8935-e0d17e2aa017)
