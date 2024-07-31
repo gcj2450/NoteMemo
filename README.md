@@ -1,6 +1,11 @@
 # NoteMemo
 笔记
 
+unity 可交互水波
+https://github.com/akauper/Shallow-Water?tab=readme-ov-file
+![infoflow_2024-7-31_20-48-9](https://github.com/user-attachments/assets/c2b198fe-1317-448d-ba50-25013eee4af9)
+
+
 风格化的URp场景
 https://github.com/gcj2450/Stylized-Nature-Scene-by-Unity-URP
 ![image](https://github.com/user-attachments/assets/d45cfb29-a711-4775-ab36-b00ad22f3679)
