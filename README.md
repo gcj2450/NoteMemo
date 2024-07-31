@@ -1,5 +1,11 @@
 # NoteMemo
 笔记
+
+风格化的URp场景
+https://github.com/gcj2450/Stylized-Nature-Scene-by-Unity-URP
+![image](https://github.com/user-attachments/assets/d45cfb29-a711-4775-ab36-b00ad22f3679)
+
+
 unity mesh转sdf 示例
 https://github.com/gcj2450/mesh-to-sdf-examples
 ![infoflow_2024-7-31_19-47-43](https://github.com/user-attachments/assets/885b1d3f-df63-4f85-97c0-ab3aabf49010)
