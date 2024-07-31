@@ -1,6 +1,13 @@
 # NoteMemo
 笔记
 
+有几个SchoolGirls模型和GameCreator sdk,GameCreator是一些游戏开发工具，角色控制等
+https://github.com/gcj2450/Gamecreator2_basic
+![image](https://github.com/user-attachments/assets/9f2d8201-04b7-4552-8935-e0d17e2aa017)
+![image](https://github.com/user-attachments/assets/3dc668ba-b5df-4be4-b693-99816a4b1d78)
+
+
+
 音乐下载器，支持qq，酷狗等音乐平台下载
 https://github.com/gcj2450/XMusicDownloader
 
