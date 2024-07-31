@@ -1,5 +1,13 @@
 # NoteMemo
 笔记
+unity mesh转sdf 示例
+https://github.com/gcj2450/mesh-to-sdf-examples
+![infoflow_2024-7-31_19-47-43](https://github.com/user-attachments/assets/885b1d3f-df63-4f85-97c0-ab3aabf49010)
+![infoflow_2024-7-31_19-48-1](https://github.com/user-attachments/assets/7d937ce1-6284-417a-b052-8f64ff7ef8fd)
+![infoflow_2024-7-31_19-48-11](https://github.com/user-attachments/assets/13d78679-5b51-4b5d-a461-6e5491fb6176)
+
+
+
 
 内置渲染管线的各种头发Shader 实现，包括Kajiya kay
 https://github.com/gcj2450/Hair_BuiltinRP
