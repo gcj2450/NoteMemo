@@ -1,6 +1,11 @@
 # NoteMemo
 笔记
 
+HolisticMotionCapture
+https://github.com/gcj2450/HolisticMotionCapture
+![image](https://github.com/user-attachments/assets/390fe1d4-f707-4c54-a8da-4a0a120340a6)
+
+
 unity 可交互水波
 https://github.com/akauper/Shallow-Water?tab=readme-ov-file
 ![infoflow_2024-7-31_20-48-9](https://github.com/user-attachments/assets/c2b198fe-1317-448d-ba50-25013eee4af9)
