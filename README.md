@@ -1,6 +1,9 @@
 # NoteMemo
 笔记
 
+HandPoseBarracuda_Ring戒指佩戴
+https://github.com/gcj2450/HandPoseBarracuda
+
 unity植物大战僵尸
 [https://github.com/fctony/PlantsVsZombies](https://github.com/gcj2450/PlantsVsZombies)
 ![image](https://github.com/user-attachments/assets/19262adc-9977-4601-b189-84240462bc83)
