@@ -1,7 +1,7 @@
 # NoteMemo
 笔记
 
-HandPoseBarracuda_Ring戒指佩戴
+HandPoseBarracuda_Ring戒指佩戴,分支是结合Vuforia和AVPro的AR识别视频播放绘画教学项目
 https://github.com/gcj2450/HandPoseBarracuda
 
 unity植物大战僵尸
