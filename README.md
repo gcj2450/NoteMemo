@@ -1,6 +1,11 @@
 # NoteMemo
 笔记
 
+女友跳舞的体感3d追踪
+https://github.com/gcj2450/ThreeDPoseUnityBarracuda
+![image](https://github.com/user-attachments/assets/ac338700-bdc2-4db2-ba3c-b0e903fdc611)
+
+
 HandPoseBarracuda_Ring戒指佩戴,分支是结合Vuforia和AVPro的AR识别视频播放绘画教学项目
 https://github.com/gcj2450/HandPoseBarracuda
 
