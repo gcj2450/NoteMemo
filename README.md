@@ -1,5 +1,12 @@
 # NoteMemo
 笔记
+
+unity植物大战僵尸
+[https://github.com/fctony/PlantsVsZombies](https://github.com/gcj2450/PlantsVsZombies)
+![image](https://github.com/user-attachments/assets/19262adc-9977-4601-b189-84240462bc83)
+
+
+
 Unity 使用ComputeShader计算大量物体随机移动
 https://github.com/gcj2450/Unity-Compute-Shader-Test
 ![image](https://github.com/user-attachments/assets/81e5ffc3-16f8-40e6-95cf-97543e7f899f)
