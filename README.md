@@ -1,6 +1,29 @@
 # NoteMemo
 笔记
 
+农业模拟游戏
+https://github.com/kookmin-sw/capstone-2020-10
+
+智能推荐衣服和推荐搭配的物联网镜子
+https://github.com/gcj2450/2018-cap1-9
+![image](https://github.com/user-attachments/assets/efe7ccff-bd70-4a0b-a053-6f2a443303da)
+
+
+基于视频的面部表情分析情感分析
+https://github.com/gcj2450/capstone-2020-2
+![image](https://github.com/user-attachments/assets/9384031f-66d9-4686-98c1-1e5614c87add)
+
+
+能够根据视频分析用户脸型并推荐眼镜框，并且能够虚拟试戴
+https://github.com/gcj2450/capstone-2023-31
+![image](https://github.com/user-attachments/assets/1046667d-54c5-4a3b-9339-d737a7a0a556)
+
+
+上传照片，根据人脸生成卡通风格照片的聊天应用程序
+[https://github.com/kookmin-sw/capstone-2024-18](https://github.com/gcj2450/capstone-2024-18)
+![image](https://github.com/user-attachments/assets/ba959d0d-699f-484b-9e06-8d7c002f4bd1)
+
+
 女友跳舞的体感3d追踪
 https://github.com/gcj2450/ThreeDPoseUnityBarracuda
 ![image](https://github.com/user-attachments/assets/ac338700-bdc2-4db2-ba3c-b0e903fdc611)
